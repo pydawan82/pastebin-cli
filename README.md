@@ -1,0 +1,2 @@
+# pastebin-cli
+Pastebin CLI
