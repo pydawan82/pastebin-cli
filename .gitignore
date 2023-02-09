@@ -1,1 +1,7 @@
+# Key files
 api.key
+user.key
+
+# Binary files
+*.pyc
+**/__pycache__/
